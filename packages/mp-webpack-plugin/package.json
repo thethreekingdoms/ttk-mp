@@ -1,0 +1,23 @@
+{
+	"name": "mp-webpack-plugin",
+	"version": "1.3.6",
+	"description": "a tool for develop miniprogram with vue",
+	"main": "src/index.js",
+	"miniprogram": "src",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jeffycai/kbone.git"
+	},
+	"author": "jeffycai",
+	"license": "MIT",
+	"dependencies": {
+		"colors": "^1.4.0",
+		"execa": "^3.4.0",
+		"path-to-regexp": "^3.0.0",
+		"postcss": "^7.0.17",
+		"webpack": "^4.41.6",
+		"webpack-sources": "^1.3.0"
+	},
+	"gitHead": "335714e2b6cd9c12d159dfc0753c697e800974a4"
+}
